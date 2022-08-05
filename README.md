@@ -36,9 +36,9 @@ To design and develop a mobile app that can automatically scan through SMS texts
 ## Mockups
 <table>
     <tr>
-        <td><img src="./mockups/1.jpg"></td>
-        <td><img src="./mockups/2.jpg"></td>
-        <td><img src="./mockups/3.jpg"></td>
+        <td><img width="100%" alt="image" src="https://user-images.githubusercontent.com/62889318/183091009-bf0891f8-9233-4dac-9657-01a76708659a.png"></td>
+        <td><img width="100%" alt="image" src="https://user-images.githubusercontent.com/62889318/183091040-4eb5334d-bf89-4afa-ba6e-4d97220f94ff.png"></td>
+        <td><img width="100%" alt="image" src="https://user-images.githubusercontent.com/62889318/183091071-fef3ce5c-712f-4127-aefa-74d568b2da4d.png"></td>
     </tr>
     <tr>
         <td><img src="./mockups/4.jpg"></td>
