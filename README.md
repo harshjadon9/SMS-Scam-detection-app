@@ -1,3 +1,6 @@
+
+<img width="100" src="https://user-images.githubusercontent.com/62889318/183091713-7c2f9f75-1d98-48b1-b5e0-a4fdbc771f08.png">
+
 # SMS-Spam-API
 ## Steps to Access
 To access our application you can either download the [android application]().
